@@ -1,12 +1,12 @@
 ![Alt text](/media/Red_Hat_logo_1.svg.png)
 
 -------------
----
+
 
 # **大綱**
--  ## RedHat 簡介
--  ## 安裝Linux RedHat
--  ## 實作問題
+-  ## [RedHat 簡介]()
+-  ## [安裝Linux RedHat](/media/SetUp/README.md) 
+-  ## [實作問題]()
 #  RCHE系列
   - ## RCHE123
     - CHAP1

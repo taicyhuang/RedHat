@@ -1,0 +1,6 @@
+# HOW TO INSTALL REDHAT
+## 1.  INSTRATION
+## 2.  Redhat version
+## 3.  SETTINGS
+## 4.  CONFIGRATION
+## 5.  IDE OR TEXT
